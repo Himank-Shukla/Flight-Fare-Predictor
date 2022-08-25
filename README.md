@@ -52,7 +52,7 @@ I tried six different models and evaluated them. using r2_score.
 
 ## Model Accuracy
 
-GradientBoostingRegressor
+RandomForestRegressor
 - 0.7324
 
 
